@@ -1,8 +1,3 @@
-<img
-  src="header.png"
-  alt="Hi 👋, I'm Applesinus" />
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=applesinus&theme=gruvbox)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=applesinus&theme=gruvbox)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=applesinus&theme=gruvbox)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=applesinus&theme=gruvbox)
