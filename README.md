@@ -6,7 +6,7 @@
 <div>
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-    Now I study Golang. You can take a look at my knowledge in the <a href="https://github.com/applesinus/GoodBuy">GoodBuy</a> repo.
+    Now I study Golang. You can take a look at my knowledge in the <a href="https://github.com/applesinus/GoodBuy">GoodBuy</a> and Wildberries internship <a href="https://github.com/applesinus/WBinternshipL0">L0</a>, <a href="https://github.com/applesinus/WBinternshipL1">L1</a> repos.
   </p>
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-plain.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
