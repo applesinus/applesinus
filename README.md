@@ -38,6 +38,9 @@
       <tr>
         <td align="center">
           <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" title="JS" alt="JS" width="40" height="40"/>&nbsp;
         </td>
         <td>
           <b>University</b> projects: custom programming language <a href="https://github.com/applesinus/JAL">interpreter</a>, custom <a href="https://github.com/applesinus/DBMS">DBMS</a>
