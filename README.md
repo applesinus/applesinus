@@ -14,7 +14,8 @@
           <img src="https://hub.docker.com/api/media/repos_logo/v1/library%2Fnats-streaming" title="NATS streaming" alt="NATS streaming" width="40" height="40"/>&nbsp;
         </td>
         <td>
-          <b>Wildberries</b> (Russian local Amazon) internship <a href="https://github.com/applesinus/WBinternshipL0">L0 project</a> and tasks <a href="https://github.com/applesinus/WBinternshipL1">L1</a>, <a href="https://github.com/applesinus/WBinternshipL2">L2</a>
+          <b>Wildberries</b> (Russian local Amazon) internship <a href="https://github.com/applesinus/WBinternshipL0">L0 project</a> and tasks <a href="https://github.com/applesinus/WBinternshipL1">L1</a>, <a href="https://github.com/applesinus/WBinternshipL2">L2</a><br>
+          (after those i've got a job offer)
         </td>
       </tr>
       <tr>
@@ -43,7 +44,9 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" title="JS" alt="JS" width="40" height="40"/>&nbsp;
         </td>
         <td>
-          <b>University</b> projects: custom programming language <a href="https://github.com/applesinus/JAL">interpreter</a>, custom <a href="https://github.com/applesinus/DBMS">DBMS</a>
+            <b>University</b> projects:<br>
+            custom programming language <a href="https://github.com/applesinus/JAL">interpreter</a><br>
+            custom <a href="https://github.com/applesinus/DBMS">DBMS</a>
         </td>
       </tr>
     </table>
