@@ -24,7 +24,7 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-plain.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
         </td>
         <td>
-          <b>PET project</b> - a little shop client <a href="https://github.com/applesinus/GoodBuy">GoodBuy</a>
+          <b>Shop client</b> <a href="https://github.com/applesinus/GoodBuy">GoodBuy</a>
         </td>
       </tr>
       <tr>
