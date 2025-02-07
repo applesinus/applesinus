@@ -45,6 +45,7 @@
         </td>
         <td>
             <b>University</b> projects:<br>
+            <a href="https://github.com/applesinus/SecureMessenger">secure messenger</a> with RC6 and Magenta algorithms<br>
             custom programming language <a href="https://github.com/applesinus/JAL">interpreter</a><br>
             custom <a href="https://github.com/applesinus/DBMS">DBMS</a>
         </td>
