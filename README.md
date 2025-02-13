@@ -14,7 +14,7 @@
           <img src="https://hub.docker.com/api/media/repos_logo/v1/library%2Fnats-streaming" title="NATS streaming" alt="NATS streaming" width="40" height="40"/>&nbsp;
         </td>
         <td>
-          <b>Wildberries</b> (Russia's largest marketplace, similar to Amazon)<br>
+          <b>Wildberries</b> <i>(Russia's largest marketplace, similar to Amazon)</i><br>
           Internship: <a href="https://github.com/applesinus/WBinternshipL0">L0 project</a> and <a href="https://github.com/applesinus/WBinternshipL1">L1</a>, <a href="https://github.com/applesinus/WBinternshipL2">L2</a> tasks (led to a job offer)
         </td>
       </tr>
@@ -24,7 +24,7 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-plain.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
         </td>
         <td>
-          <b>Shop management client</b> <a href="https://github.com/applesinus/GoodBuy">GoodBuy</a>
+          <b>Shop management</b> client <a href="https://github.com/applesinus/GoodBuy">GoodBuy</a>
         </td>
       </tr>
       <tr>
@@ -33,7 +33,7 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
         </td>
         <td>
-          <b>Relaxing game</b> <a href="https://github.com/applesinus/BloomingShell">BloomingShell</a>
+          Relaxing <b>game</b> <a href="https://github.com/applesinus/BloomingShell">BloomingShell</a>
         </td>
       </tr>
       <tr>
