@@ -47,6 +47,7 @@
         </td>
         <td>
             <b>University</b> projects:<br>
+            <a href="https://github.com/applesinus/BachelorThesis">parallelized 3D collision engine</a> (for the bachelor thesis)<br>
             <a href="https://github.com/applesinus/SecureMessenger">secure messenger</a> using the RC6 and Magenta algorithms<br>
             custom <a href="https://github.com/applesinus/JAL">interpreter</a> for a programming language<br>
             custom <a href="https://github.com/applesinus/DBMS">DBMS</a>
